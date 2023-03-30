@@ -1,0 +1,30 @@
+.order-summary{
+text-align: center;
+font-weight: 500;
+font-size: 23px;
+line-height: 30px;
+color: #1C2B35;
+}
+
+.selected-product-info-container{
+ margin-top: 50px;
+ margin-bottom: 57px;
+}
+
+.selected-product-info-container p{
+font-weight: 500;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.005em;
+color: #2A414F;
+margin-bottom: 25px;
+}
+
+.selected-product-info-container h6{
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+letter-spacing: 0.0015em;
+color: #0E161A;
+}
+
