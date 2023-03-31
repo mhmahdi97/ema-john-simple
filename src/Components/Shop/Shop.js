@@ -17,7 +17,6 @@ const Shop = () => {
     }
     return (
         <div className='shop-container'>
-            {/* <h2>Products Coming Here: {products.length}</h2> */}
             <div className="products-container">
                 {
                     products.map(product => <Product

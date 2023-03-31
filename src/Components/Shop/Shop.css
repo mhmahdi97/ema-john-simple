@@ -11,7 +11,10 @@
 }
 
 .cart-container{
-    padding: 28px 45px;
-    
+    /* padding: 28px 45px; */
+    height: 100vh;
     background: #FF99004D;
+    position: sticky;
+    top: 0;
+    right: 0;
 }

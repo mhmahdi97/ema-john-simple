@@ -30,7 +30,7 @@
 
 .product-title{
 font-size: 21px;
-font-weight: 400;
+font-weight: 500;
 line-height: 25px;
 letter-spacing: 0.0015em;
 color: #0E161A;
@@ -38,7 +38,7 @@ margin-bottom: 8px;
 }
 
 .product-price{
-font-weight: 400;
+font-weight: 500;
 font-size: 17px;
 line-height: 20px;
 letter-spacing: 0.0015em;
@@ -47,7 +47,7 @@ margin-bottom: 25px;
 }
 
 .product-description-container p{
-font-weight: 400;
+font-weight: 500;
 font-size: 12px;
 line-height: 14px;
 letter-spacing: 0.004em;
