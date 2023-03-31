@@ -37,6 +37,8 @@ const Shop = () => {
     const handleAddToCart = (product)=>{
         const newCart = [...cart, product]
         // // Optional Method for show quantity and price in UI
+        // // If product doesn't exist in the cart, then set the quantity = 1
+        // // If exists update quantity by 1
         // let newCart = [];
         // const exists = cart.find(pd=> pd.id === product.id);
         // if(!exists){
