@@ -18,3 +18,22 @@
     top: 0;
     right: 0;
 }
+
+.proceed-link{
+    /* text-decoration: none; */
+}
+
+.btn-proceed{
+    background: #FF9900;
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    padding: 14px 25px;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}

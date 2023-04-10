@@ -29,5 +29,21 @@ font-size: 21px;
 line-height: 25px;
 letter-spacing: 0.0015em;
 color: #0E161A;
+margin-bottom: 35px;
+}
+
+.btn-clear-cart{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    padding: 14px 25px;
+    background: #FF3030;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
 }
 
