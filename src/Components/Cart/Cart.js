@@ -19,9 +19,15 @@ const Cart = (props) => {
     };
     let tax = totalPrice*7/100;
     let grandTotal = totalPrice + totalShipping + tax;
+    // conditional rendering
+    let message 
+    if (cart.length === 0) {
+        message = 'Please add some products'
+    }
     return (
         <div>
             <h4 className='order-summary'>Order Summary</h4>
+            <p>{message}</p>
             
 
             <div className='selected-product-info-container'>
