@@ -23,3 +23,17 @@
 .header nav a:hover{
     color: orange;
 }
+
+.text-white{
+    color: wheat;
+    margin-left: 24px;
+}
+
+.btn-signout{
+    padding: 5px 8px;
+    border: none;
+    border-radius: 3px;
+    color: #072ec8;
+    margin-left: 18px;
+    font-weight: 600;
+}
